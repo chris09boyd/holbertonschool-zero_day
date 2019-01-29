@@ -1,0 +1,1 @@
+This project was about installing emacs on my terminal and using it as a file editor to create new files alongside the touch command.
